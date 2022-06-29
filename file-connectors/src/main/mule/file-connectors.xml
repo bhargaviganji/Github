@@ -20,6 +20,10 @@ output application/java
 			</ee:message>
 		</ee:transform>
 		<logger level="INFO" doc:name="Logger" doc:id="452734d9-04c4-4ca7-b861-260f7af30b43" message="hi"/>
+
 		<logger level="INFO" doc:name="Logger" doc:id="41111fa2-455c-413b-a9b3-1b1a940f68dc" message="hello"/>
+
+		<logger level="INFO" doc:name="Logger" doc:id="452734d9-04c4-4ca7-b861-260f7af30b43" message="changes made by someone"/>
+
 	</flow>
 </mule>
